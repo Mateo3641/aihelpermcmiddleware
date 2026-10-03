@@ -1,4 +1,6 @@
 # Distributed AI Middleware for Java Clients
+> [!NOTE]  
+> **Notice:** This repository contains a public preview/MVP version. The full production version with advanced features and active maintenance is kept in a private repository.
 
 A robust, distributed RESTful API built with **Node.js, TypeScript, and Express.js** that serves as a secure middleware between a Java client application (Minecraft Server Plugin) and external Artificial Intelligence models (Groq/LLaMA).
 
